@@ -7,4 +7,4 @@ echo "<br>";
 echo "randul trei, adaugat in devel cu comit si push";
 //sunt in devel si fac merge cu master -> nu asa 
 //sunt in master si fac merge cu devel -> a incarca in master din devel
-//fac push ->asa merge
+//fac push ->asa merge, iar dupa push il pot lua cu pull in live
